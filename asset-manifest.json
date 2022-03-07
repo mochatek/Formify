@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Formify/static/css/main.5670c721.chunk.css",
+    "main.js": "/Formify/static/js/main.d073e38f.chunk.js",
+    "main.js.map": "/Formify/static/js/main.d073e38f.chunk.js.map",
+    "runtime-main.js": "/Formify/static/js/runtime-main.24707f0c.js",
+    "runtime-main.js.map": "/Formify/static/js/runtime-main.24707f0c.js.map",
+    "static/js/2.ab7fbfcf.chunk.js": "/Formify/static/js/2.ab7fbfcf.chunk.js",
+    "static/js/2.ab7fbfcf.chunk.js.map": "/Formify/static/js/2.ab7fbfcf.chunk.js.map",
+    "index.html": "/Formify/index.html",
+    "static/css/main.5670c721.chunk.css.map": "/Formify/static/css/main.5670c721.chunk.css.map",
+    "static/js/2.ab7fbfcf.chunk.js.LICENSE.txt": "/Formify/static/js/2.ab7fbfcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24707f0c.js",
+    "static/js/2.ab7fbfcf.chunk.js",
+    "static/css/main.5670c721.chunk.css",
+    "static/js/main.d073e38f.chunk.js"
+  ]
+}
