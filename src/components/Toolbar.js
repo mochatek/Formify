@@ -26,6 +26,10 @@ function Toolbar() {
         <p>
           Press <mark>Delete</mark> to remove from grid.
         </p>
+        <p>Click on the grid to de-select.</p>
+        <p>
+          Click <mark>Export</mark> to download form.
+        </p>
       </div>
 
       <p>

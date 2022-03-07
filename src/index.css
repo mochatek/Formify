@@ -184,10 +184,9 @@ ul {
   background-color: hsl(0, 0%, 25%);
   padding: 1rem;
   color: hsla(0, 0%, 98%, 0.75);
-}
-
-.toolbar > * {
-  padding-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .toolbar h3 {
